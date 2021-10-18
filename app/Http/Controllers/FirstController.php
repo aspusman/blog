@@ -8,6 +8,6 @@ class FirstController extends Controller
 {
     //
     public function index(){
-        return view('gggg');  
+        return view('welcome');  
     } 
 }
