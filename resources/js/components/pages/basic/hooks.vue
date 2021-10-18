@@ -2,6 +2,7 @@
     <div>
         <h1 ref="myref">This is hook Vue</h1>
         <p>{{name}}</p>
+        <p>{{name}}</p>
     </div>
 </template>
 
